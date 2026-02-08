@@ -40,6 +40,9 @@ project view :
 <img width="1873" height="851" alt="image" src="https://github.com/user-attachments/assets/4d430b44-c116-4334-8419-5df9e819227b" />
 <img width="1812" height="846" alt="image" src="https://github.com/user-attachments/assets/d7ba835c-459e-4511-ab30-5e99913deefc" />
 <img width="1880" height="838" alt="image" src="https://github.com/user-attachments/assets/0998c1f1-74a1-439e-8cf0-a131a83dde65" />
+<img width="1797" height="846" alt="image" src="https://github.com/user-attachments/assets/a4b7bdf5-0f06-4a09-9ce2-ed5d1dba5fe4" />
+<img width="1765" height="841" alt="image" src="https://github.com/user-attachments/assets/74387558-e3d3-4b40-a63f-2bdc4ecc9c18" />
+
 
 ## 🗂️ Folder Structure
 

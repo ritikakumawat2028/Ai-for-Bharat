@@ -1,9 +1,51 @@
 
   # AI for Bharat Platform
 
-  ## Running the code
+# 🚀 React + Vite + Tailwind CSS Project
 
-  Run `npm i` to install the dependencies.
+A modern, scalable frontend application built using **React**, **TypeScript**, **Vite**, and **Tailwind CSS**.  
+This project follows a clean folder structure with separation of concerns, making it easy to maintain, extend, and scale.
 
-  Run `npm run dev` to start the development server.
-  
+---
+
+## 📌 Project Overview
+
+This project is designed with:
+- **Component-based architecture**
+- **Centralized routing**
+- **Reusable utilities and contexts**
+- **Modern styling using Tailwind CSS**
+- **Fast development & build performance with Vite**
+
+It is suitable for:
+- Startup MVPs
+- Dashboard / SaaS products
+- Portfolio or production-ready web apps
+
+---
+
+## 🗂️ Folder Structure
+
+```txt
+src/
+│
+├── app/
+│   ├── components/     # Reusable UI components
+│   ├── context/        # React Contexts (global state, auth, theme, etc.)
+│   ├── data/           # Static data & constants
+│   ├── pages/          # Page-level components
+│   ├── utils/          # Helper functions & utilities
+│   ├── App.tsx         # Root App component
+│   └── routes.tsx     # Application routing
+│
+├── styles/
+│   ├── fonts.css
+│   ├── index.css
+│   ├── tailwind.css
+│   └── theme.css
+│
+├── main.tsx            # Application entry point
+│
+├── ATTRIBUTIONS.md     # Third-party credits
+└── IMPLEMENTATION_GUIDE.md
+

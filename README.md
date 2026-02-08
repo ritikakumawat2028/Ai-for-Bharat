@@ -73,3 +73,65 @@ Node.js (v18 or above recommended)
 npm or yarn
 
 Check versions:
+
+3️⃣ Install dependencies
+
+npm install
+
+
+4️⃣ Start the development server
+
+npm run dev
+
+
+5️⃣ Open in browser
+
+http://localhost:5173
+
+🏗️ Build for Production
+
+To create an optimized production build:
+
+npm run build
+
+
+Preview the production build locally:
+
+npm run preview
+
+📜 Available Scripts
+Command	Description
+npm run dev	Start development server
+npm run build	Build for production
+npm run preview	Preview production build
+npm install	Install dependencies
+🎨 Styling
+
+Tailwind CSS is configured via tailwind.css
+
+Global styles are located in styles/index.css
+
+Theme-related styles are managed in theme.css
+
+📘 Documentation
+
+IMPLEMENTATION_GUIDE.md → Detailed implementation notes
+
+ATTRIBUTIONS.md → Third-party libraries & credits
+
+🤝 Contributing
+
+Contributions are welcome!
+
+Fork the repository
+
+Create a new branch
+
+Commit your changes
+
+Open a Pull Request
+
+📄 License
+
+This project is licensed under the MIT License.
+

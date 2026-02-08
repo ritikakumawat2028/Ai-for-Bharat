@@ -49,3 +49,27 @@ src/
 ├── ATTRIBUTIONS.md     # Third-party credits
 └── IMPLEMENTATION_GUIDE.md
 
+
+⚙️ Tech Stack
+
+React (with Hooks)
+
+TypeScript
+
+Vite
+
+Tailwind CSS
+
+PostCSS
+
+ESLint (optional)
+
+🧑‍💻 Prerequisites
+
+Make sure you have the following installed:
+
+Node.js (v18 or above recommended)
+
+npm or yarn
+
+Check versions:
